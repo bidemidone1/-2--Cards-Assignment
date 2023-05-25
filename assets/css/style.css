@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Space Grotesk', sans-serif;
+    /* font-size: 2.375rem; */
+    line-height: 2;
+}
+
+.contain {
+    background-image: url(../images/bg2.jpg);
+    /* background-repeat: repeat-x; */
+    /* background-repeat: no-repeat; */
+    background-position: left;
+    background-size: cover;
+    /* padding: 2% auto; */
+    /* margin: 2%; */
+}
+
+.display-head {
+    font-size: 4.375rem;
+}
+
+.display-head-2 {
+    margin-bottom: 40px;
+    font-weight: 400;
+    color: #5f5d68;
+}
+
+.container {
+    width: 55%;
+    margin: auto;
+    margin-top: 2.5%;
+    /* margin-bottom: 3%; */
+    padding-top: 5%;
+    padding-bottom: 7%;
+    /* margin: 4rem; */
+}
+
+.display-lines {
+    font-size: 1.125rem;
+    /* line-height: 1.5; */
+    color: #5f5d68;
+}
+
+.display-lines p i {
+    /* align-items: start; */
+    padding-right: 2%;
+    font-size: 23px;
+    /* justify-items: end; */
+    /* align-content: end; */
+    /* justify-content: center; */
+}
